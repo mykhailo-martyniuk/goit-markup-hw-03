@@ -249,7 +249,7 @@ button:active {
   max-width: 270px;
 }
 
-.advantages__item + .advantages__item{
+.advantages__item + .advantages__item {
   margin-left: 30px;
 }
 
@@ -275,7 +275,6 @@ button:active {
 }
 
 .doings__item {
-
 }
 
 .doings__item:not(:last-child) {
@@ -387,7 +386,6 @@ button:active {
   margin: 15px;
   max-width: 370px;
 }
-
 
 .project-list__bottom-container {
   padding: 20px 24px;
